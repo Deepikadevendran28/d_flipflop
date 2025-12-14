@@ -48,3 +48,6 @@ RegisterNumber: 25016783
 
 
 **RESULTS**
+
+
+To implement  D flipflop using verilog and validating their functionality using their functional tables is implemented successfully.
